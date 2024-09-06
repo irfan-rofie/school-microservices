@@ -14,12 +14,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/students",
+							"raw": "http://localhost:8080/students",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8080",
 							"path": [
 								"students"
 							]
@@ -42,12 +42,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8081/students",
+							"raw": "http://localhost:8080/students",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8080",
 							"path": [
 								"students"
 							]
@@ -70,12 +70,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8081/students/2",
+							"raw": "http://localhost:8080/students/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8080",
 							"path": [
 								"students",
 								"2"
@@ -90,12 +90,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/students/1",
+							"raw": "http://localhost:8080/students/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8080",
 							"path": [
 								"students",
 								"1"
@@ -110,12 +110,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8081/students/2",
+							"raw": "http://localhost:8080/students/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8081",
+							"port": "8080",
 							"path": [
 								"students",
 								"2"
@@ -135,12 +135,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8082/teachers",
+							"raw": "http://localhost:8080/teachers",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8082",
+							"port": "8080",
 							"path": [
 								"teachers"
 							]
@@ -163,12 +163,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8082/teachers",
+							"raw": "http://localhost:8080/teachers",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8082",
+							"port": "8080",
 							"path": [
 								"teachers"
 							]
@@ -191,12 +191,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8082/teachers/2",
+							"raw": "http://localhost:8080/teachers/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8082",
+							"port": "8080",
 							"path": [
 								"teachers",
 								"2"
@@ -211,12 +211,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8082/teachers/1",
+							"raw": "http://localhost:8080/teachers/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8082",
+							"port": "8080",
 							"path": [
 								"teachers",
 								"1"
@@ -231,12 +231,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8082/teachers/2",
+							"raw": "http://localhost:8080/teachers/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8082",
+							"port": "8080",
 							"path": [
 								"teachers",
 								"2"
@@ -256,12 +256,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8083/courses",
+							"raw": "http://localhost:8080/courses",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8083",
+							"port": "8080",
 							"path": [
 								"courses"
 							]
@@ -284,12 +284,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8083/courses",
+							"raw": "http://localhost:8080/courses",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8083",
+							"port": "8080",
 							"path": [
 								"courses"
 							]
@@ -312,12 +312,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8083/courses/1",
+							"raw": "http://localhost:8080/courses/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8083",
+							"port": "8080",
 							"path": [
 								"courses",
 								"1"
@@ -332,12 +332,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8083/courses/1",
+							"raw": "http://localhost:8080/courses/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8083",
+							"port": "8080",
 							"path": [
 								"courses",
 								"1"
@@ -352,12 +352,12 @@
 						"method": "DELETE",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8083/courses/2",
+							"raw": "http://localhost:8080/courses/2",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8083",
+							"port": "8080",
 							"path": [
 								"courses",
 								"2"
@@ -372,12 +372,12 @@
 						"method": "PUT",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8083/courses/1/assign-teacher/1",
+							"raw": "http://localhost:8080/courses/1/assign-teacher/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8083",
+							"port": "8080",
 							"path": [
 								"courses",
 								"1",
@@ -408,12 +408,12 @@
 							}
 						},
 						"url": {
-							"raw": "http://localhost:8084/attendance/record",
+							"raw": "http://localhost:8080/attendance/record",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8084",
+							"port": "8080",
 							"path": [
 								"attendance",
 								"record"
@@ -428,12 +428,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8084/attendance/student/1",
+							"raw": "http://localhost:8080/attendance/student/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8084",
+							"port": "8080",
 							"path": [
 								"attendance",
 								"student",
@@ -449,12 +449,12 @@
 						"method": "GET",
 						"header": [],
 						"url": {
-							"raw": "http://localhost:8084/attendance/course/1",
+							"raw": "http://localhost:8080/attendance/course/1",
 							"protocol": "http",
 							"host": [
 								"localhost"
 							],
-							"port": "8084",
+							"port": "8080",
 							"path": [
 								"attendance",
 								"course",
